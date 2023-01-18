@@ -2,13 +2,15 @@
     "name": "CORGI",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "Cargo": "github:codingdroid420/cargo#pr-3"
     },
     "files": [
         "main.blocks",
         "main.ts",
         "README.md",
-        "assets.json"
+        "assets.json",
+        "main.py"
     ],
     "testFiles": [
         "test.ts"
